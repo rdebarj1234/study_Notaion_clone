@@ -1,2 +1,1 @@
-# study_Notaion_clone
-using reactjs
+# StudyNotion Edtech Project
